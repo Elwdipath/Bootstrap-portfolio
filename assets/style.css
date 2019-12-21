@@ -6,9 +6,20 @@ html, body {
   
 .container {
     background-color: white;
-    padding: 5px;
+    /* padding: 50%; */
+    margin: 0 auto;
+    width: 80%;
 }
 
 h2 {
     padding: 10px;
+    color: #4aaaa5;
+}
+
+.navbar {
+    color: #4aaaa5;
+}
+
+.navbar-brand {
+    color: #4aaaa5;
 }
