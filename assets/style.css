@@ -1,3 +1,9 @@
+
+html, body {
+    background-image: url("./assets/images/spikes.png");
+  }
+
+  
 .container {
     background-color: white;
     padding: 5px;
