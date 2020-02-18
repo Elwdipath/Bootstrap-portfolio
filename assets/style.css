@@ -8,6 +8,7 @@ html, body {
     background-color: white;
     /* padding: 50%; */
     margin: 0 auto;
+    margin-top: 10px;
     width: 80%;
 }
 
@@ -16,10 +17,40 @@ h2 {
     color: #4aaaa5;
 }
 
-.navbar {
+.fa {
+    padding: 20px;
+    font-size: 36px;
+    width: 60px;
+    margin: 5px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-linkedin {
+    /* background: #3B5998; */
+    color: white;
+    font-size: 36px;
+  }
+  
+  /* Twitter */
+  .fa-github {
+    /* background: #55ACEE; */
+    color: white;
+  }
+
+/* .navbar {
     color: #4aaaa5;
 }
 
 .navbar-brand {
     color: #4aaaa5;
-}
+} */
+
