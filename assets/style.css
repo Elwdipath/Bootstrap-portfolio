@@ -1,7 +1,7 @@
 
-/* html, body {
-    background-image: url("/assets/images/spikes.png");
-  } */
+html, body {
+    background-image: url("./images/spikes.png");
+  }
 
   
 .container {
