@@ -54,3 +54,8 @@ h2 {
     color: #4aaaa5;
 } */
 
+.card-img-top {
+  height: 234px;
+  width: 280px;
+}
+
